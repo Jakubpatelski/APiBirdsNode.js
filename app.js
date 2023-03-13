@@ -20,7 +20,7 @@ wikipediaUrl: "https://en.wikipedia.org/wiki/Common_greenshank"
         These are recognised as separate species by the American Ornithologists' Union and the IOC (taiga bean goose and tundra bean goose),\
         but are considered a single species by other authorities, such as the British Ornithologists' Union.\
         It is migratory and winters further south in Europe and Asia.",
-        "https://media.istockphoto.com/id/509959359/photo/bean-goose.jpg?s=612x612&w=0&k=20&c=xoKjfokGa_uGtbSIvNjyZ3SN8hOaJ2mqkslpxOFqbLo=",
+        imageUrl: "https://media.istockphoto.com/id/509959359/photo/bean-goose.jpg?s=612x612&w=0&k=20&c=xoKjfokGa_uGtbSIvNjyZ3SN8hOaJ2mqkslpxOFqbLo=",
         wikipediaUrl: "https://en.wikipedia.org/wiki/Bean_goose"
     }
 
