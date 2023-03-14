@@ -52,7 +52,7 @@ wikipediaUrl: "https://en.wikipedia.org/wiki/Common_greenshank"
         id: 7,
         name: "Golden phesant",
         description: "The real golden pheasants are native to the Western forests of China. Named after their golden crests, we are wowed by the male’s colorful body! They can grow up to 41 inches long and the tail is 2/3 the length of the entire body. Golden pheasants are really hard to find and there is little known about them as they are seldom seen in their natural habitat. ",
-        imageUrl: "https://cdn.shopify.com/s/files/1/1317/9597/files/golden_pheasant_480x480.png?v=1623664221",
+        imageUrl: "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/150563021/1800",
         wikipediaUrl: "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRs_5DX-V85uECceZcmN55Hn9kPbWo40XD2__PVhJ-vYJIIbTQfQsLxIcwuNdibFCoJJTMfD0srHa1CElk"
     },
     {
