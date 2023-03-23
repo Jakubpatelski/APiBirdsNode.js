@@ -76,7 +76,7 @@ wikipediaUrl: "https://en.wikipedia.org/wiki/Common_greenshank"
 
 
 
-app.get('', (req,res) => {
+app.get('/', (req,res) => {
     res.send(birds)
 })
 
